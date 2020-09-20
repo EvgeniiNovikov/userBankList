@@ -7,7 +7,7 @@ public class User {
     private int userId;
     private String name;
     private String surName;
-    Account account;
+    private Account account;
 
     public User() {
     }
